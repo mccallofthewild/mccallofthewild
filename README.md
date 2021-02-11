@@ -1,4 +1,3 @@
-### Hi there 👋
 <div style="text-align:center; width: 100%;" >
   <img src="carbon-github-profile-readme-1.png">
 </div>

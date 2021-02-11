@@ -1,5 +1,5 @@
 <div style="text-align:center; width: 100%;" >
-  <img style="max-width:200px;" src="carbon-github-profile-readme-1.png">
+  <img style="width:200px;" src="carbon-github-profile-readme-1.png">
 </div>
 <!--
 **mccallofthewild/mccallofthewild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
